@@ -1,6 +1,6 @@
 # DHRIFT - Digital Humanities Research Infrastructure for Teaching
 
-DHRIFT (Digital Humanities Research Infrastructure for Teaching) is a static site generator built using Next.js. It facilitates the creation and dissemination of digital humanities workshops, institutes, and educational materials. This repository contains the development framework for building static websites and resources for the DHRIFT initiative.
+DHRIFT (Digital Humanities Research Infrastructure for Teaching) is a static site generator built using Next.js. It facilitates the creation and dissemination of digital humanities workshops, institutes, and educational materials. This repository contains the development framework for building static websites and resources for the DHRIFT initiative. Lorem ipsum.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
