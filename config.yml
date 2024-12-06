@@ -21,6 +21,7 @@ register:
   text: 'Register'
 
 show_workshops: true
+workshop: seed-bells
 
 schedule:
   - date: 2024-12-31
