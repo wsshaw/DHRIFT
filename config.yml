@@ -4,6 +4,8 @@ google_maps: https://goo.gl/maps/zKuZb6KqEHZqaEMv6
 event: DHRIFT deployment - test
 date: 2024-12-01
 end_date: 2025-12-01
+workshopsuser: wsshaw
+workshopsrepo: business_scrubs
 
 url: 'https://scholarworks.duke.edu/'
 logo: ''
