@@ -1,33 +1,22 @@
-organization: CUNY Graduate Center
-location: New York, NY
+organization: Duke University Libraries
+location: Durham, NC
 google_maps: https://goo.gl/maps/zKuZb6KqEHZqaEMv6
-event: Digital Humanities Research Infrastructure For Teaching
-date: 2023-03-02
-end_date: 2023-03-04
+event: DHRIFT deployment - test
+date: 2024-12-01
+end_date: 2025-12-01
 
-url: 'https://dhri.cuny.edu/'
-logo: 'https://dhri.cuny.edu/assets/images/dhri-logo.png'
+url: 'https://scholarworks.duke.edu/'
+logo: ''
 
-intro: "The Digital Humanities Research Institute (DHRI) is an intensive, community-oriented, 
-and foundational approach to learning technical skills in service of humanities teaching and 
-learning. The DHRI curriculum features workshops, tutorials, glossaries, resources, reading 
-materials, and more that have been developed at The Graduate Center, City University of New York 
-since 2016. 
+intro: "I will teach you to boil away the living waters of language and make computers read the tea leaves. :-D"
 
-
-Part of a 2019 grant from the National Endowment for the Humanities' (NEH) Office of 
-Digital Humanities (ODH), DHRI's curriculum, which was originally developed for in-person workshops, 
-was revised in Summer 2020 to better meet the needs of virtual instruction due to the covid-19 pandemic. 
-While the curriculum has always been available openly on GitHub, this site creates a more 
-user-friendly and functional interface that is open and free for public use."
-
-motto: "Test"
+motto: "0 1 2 3 4 5 6 7 8 9 a b c d e f"
 
 register: 
   required: true
-  url: 'https://dhri.cuny.edu/'
+  url: 'https://registration/'
   show_button: true
-  text: 'Register for the DHRI'
+  text: 'Register'
 
 show_workshops: true
 
